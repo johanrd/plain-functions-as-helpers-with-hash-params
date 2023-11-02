@@ -112,5 +112,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "ember-mobile-menu": "^4.0.0"
   }
 }
